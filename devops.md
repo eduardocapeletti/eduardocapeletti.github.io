@@ -4,7 +4,7 @@
 
 <img align="center" src="images/devops.png" width="300 ">
 
-***Curso de DEVOPS (50 Horas)*** - ForceLinux
+***Curso de DEVOPS | (50 Horas)*** - ForceLinux
 
 - [x] Administração Linux
     * Comandos Básicos
@@ -80,4 +80,4 @@
 
     ---
 
-    # [ForceLinux](https://www.linuxforce.com.br/curso-linux/curso-devops-ao-vivo-50-horas/)
+[ForceLinux](https://www.linuxforce.com.br/curso-linux/curso-devops-ao-vivo-50-horas/)
