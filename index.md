@@ -32,6 +32,8 @@ Clique na imagem para ver o conteúdo.
 
 ---
 
-<img align="center" src="images/sysadmin.png" width="200"> | <img align="center" src="images/baracktocat.jpg" width="200">
+Cards
+
+<img align="center" src="images/sysadmin.png" width="150"> | <img align="center" src="images/baracktocat.jpg" width="150"> | <img align="center" src="images/vscode.png" width="150"> | <img align="center" src="images/debian.png" width="150"> | <img align="center" src="images/mark.png" width="150">
 
 ---
