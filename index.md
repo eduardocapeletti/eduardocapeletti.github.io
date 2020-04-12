@@ -26,7 +26,10 @@ Nesse mundo da tecnologia ficar parado significa estar desatualizado, sempre tem
 
 ---
 
+<img align="center" src="images/devops.png" width="200 "> | <img align="center" src="images/sysadmin.png" width="200">
+
 ***Curso de DEVOPS (50 Horas)*** - ForceLinux
+
 - [x] Administração Linux
     * Comandos Básicos
     * Variáveis de Ambiente
@@ -98,6 +101,7 @@ Nesse mundo da tecnologia ficar parado significa estar desatualizado, sempre tem
     * Instalando Nagios
     * Monitoramento VMs com Nagios
     * Monitoramento Infraestrutura / Serviços
+
 
     ---
 
