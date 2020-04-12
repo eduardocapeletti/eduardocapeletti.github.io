@@ -26,6 +26,16 @@ Nesse mundo da tecnologia ficar parado significa estar desatualizado, sempre tem
 
 ---
 
+Clique na imagem para ver o conteúdo.
+
 [<img src="images/devops.png" width="300 ">](devops.md)
 
-<img src="images/curso-lpi1.jpg" width="300">
+[<img src="images/curso-lpi1.jpg" width="300">](lpi1.md)
+
+[<img src="images/curso-lpi2.jpg" width="300">](lpi2.md)
+
+---
+
+<img align="center" src="images/sysadmin.png" width="200"> | <img align="center" src="images/baracktocat.jpg" width="200">
+
+---
